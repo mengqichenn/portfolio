@@ -7,8 +7,8 @@ export default function About() {
         <main className="flex-1 bg-base-100 text-base-content">
             <section className="mx-auto w-full max-w-6xl px-6 py-16 sm:px-16 sm:py-24">
                 <div className="grid items-center gap-10 md:grid-cols-[18rem_1fr] md:gap-16">
-                    <div className="relative mx-auto aspect-[4/5] w-70 overflow-hidden sm:w-64 md:mx-0 md:w-auto border rounded-full  border-base-300 bg-base-200 shadow-lg">
-                        <Image src="/images/profile.jpg" alt="Portrait" fill className="object-cover" sizes="(min-width: 768px) 18rem, 70vw" />
+                    <div className="relative mx-auto aspect-[4/4] w-70 overflow-hidden sm:w-64 md:mx-0 md:w-auto border rounded-full  border-base-300 bg-base-200 shadow-lg">
+                        <Image src="/images/profile_mengqi.png" alt="Portrait" fill className="object-cover" sizes="(min-width: 768px) 18rem, 70vw" />
                     </div>
 
                     <div>
